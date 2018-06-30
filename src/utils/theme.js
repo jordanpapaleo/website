@@ -10,19 +10,19 @@
 
 export const theme = {
   colors: {
-    burntSienna: '#E5834B',
+    contrast: '#E5834B', // Bright Orange
     pewter: '#8D9C99',
     nevada: '#5B6569',
     limedSpruce: '#323E48',
     ecruWhite: '#F6F6E9',
-    blueSmoke: '#728D87',
+    primary: '#728D87', // Dark Sea Green
     patina: '#699990',
     monteCarlo: '#85CECA',
     copper: '#C66B37',
-    tradewind: '#62B3AF'
+    secondary: '#62B3AF' // Dark Turqiose
   },
   fonts: {
-    futura: 'Futura-Medium',
-    gothic: 'League Gothic'
+    primary: 'Oswald',
+    secondary: 'Nunito'
   }
 }
