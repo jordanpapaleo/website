@@ -8,6 +8,6 @@ export const Header = () => (
     <h1 style={{ color: '#ff6347' }}>Header Components</h1>
     <A11yNav />
     <Login />
-    <Nav />
+    <Nav type='HEADER' />
   </header>
 )

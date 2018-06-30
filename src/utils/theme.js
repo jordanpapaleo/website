@@ -10,6 +10,8 @@
 
 export const theme = {
   colors: {
+    blackO85: 'rgba(0, 0, 0, 0.85)',
+    arsenic: '#323e48',
     burntSienna: '#E5834B',
     pewter: '#8D9C99',
     nevada: '#5B6569',
