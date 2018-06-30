@@ -15,6 +15,7 @@ const Container = styled.section`
   flex-grow: 1;
   display: flex;
   flex-direction: column;
+  font-family: '${(props) => props.theme.fonts.primary}', sans-serif;
   header {
     border: 8px solid #ff6347;
   }
